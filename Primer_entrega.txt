@@ -1,0 +1,2 @@
+Primer entrega en Git
+Crear el repositorio y subir el proyecto.
